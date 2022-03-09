@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762356083111",
+    "project_id": "tetra-750b7",
+    "storage_bucket": "tetra-750b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762356083111:android:5815e328cf37d199d72e82",
+        "android_client_info": {
+          "package_name": "com.frissco.tetra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762356083111-m5g6k5lg0cn33ukpp5hce652ccu9v5j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH2LpTtmKJfk9L0Wwl4rWdhFqr0FxL8xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762356083111-m5g6k5lg0cn33ukpp5hce652ccu9v5j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
